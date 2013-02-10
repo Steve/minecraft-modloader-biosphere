@@ -8,9 +8,9 @@
   },
   "repository": "",
   "author": "",
-  "license": "BSD"
+  "license": "BSD",
   "files" : [ "jar-files" ]
   "dependencies" : {
-    "minecraft-mineloader" : "git://github.com/steve/minecraft-modloaded.git#v1.47"
+    "minecraft-mineloader" : "git://github.com/steve/minecraft-modloader.git#v1.47"
   }
 }
