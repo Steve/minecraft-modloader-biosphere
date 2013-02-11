@@ -9,7 +9,7 @@
   "repository": "",
   "author": "",
   "license": "BSD",
-  "files" : [ "jar-files" ]
+  "files" : [ "jar-files" ],
   "dependencies" : {
     "minecraft-mineloader" : "git://github.com/steve/minecraft-modloader.git#v1.47"
   }
